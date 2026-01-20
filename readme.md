@@ -1,16 +1,24 @@
-## Hi there 👋
+# Izan Robles Nieto
 
-<!--
-**izanr-dev/izanr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Universidad Autónoma de Madrid
+<br>
+<br>
 
-Here are some ideas to get you started:
+## About
+Focused on high-performance computing, systems architecture, and AI integration. My goal is to bridge the gap between low-level efficiency and complex data analysis, treating every project with production-grade rigor.
+<br>
+### Current Work
+**Lambda Model Engine**: Developing a unified LLM platform that aggregates major models (OpenAI, Anthropic, DeepSeek) to optimize costs and accessibility for developers.
+<br>
+### Technical Stack
+* **Languages**: C (Advanced), Python, SQL (Advanced), Assembly, VHDL.
+* **Systems**: Linux Environment, Bash Scripting, Memory Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Interests
+Algorithmic trading, geopolitics, and the application of disciplined, analytical frameworks to both physical training and intellectual development.
+
+<br>
+
+## Contact
+izanrobles8@gmail.com
